@@ -42,3 +42,4 @@ htmlcov/
 .idea/
 stats
 stats_csv
+*.csv
